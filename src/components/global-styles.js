@@ -108,6 +108,8 @@ body {
   transition-timing-function: ease-out;
   background-attachment: fixed;
   font-smoothing: antialiased;
+  word-break:keep-all;
+
 }
 
 body.light-mode {

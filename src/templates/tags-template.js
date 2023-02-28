@@ -15,7 +15,7 @@ const TagsTemplate = ({ pageContext, data }) => {
     <Layout title={title}>
       <TagsTemplateWrapper>
         <Title>
-          {totalCount} "{tag}" 글 모음
+           "{tag}" 글 모음 ({totalCount}개)
         </Title>
         <Link
           css={`
