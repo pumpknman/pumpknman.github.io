@@ -30,7 +30,7 @@ const HomePage = ({ data }) => {
         `}
         to="/blog"
       >
-        View All posts
+        모든 글 보기
       </StyledLink>
     </Layout>
   );
@@ -80,7 +80,7 @@ export const pageQuery = graphql`
         excerpt
         timeToRead
         frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+          date(formatString: "YYYY년 M월 D일")
           description
           title
           tags

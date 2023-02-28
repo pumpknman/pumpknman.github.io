@@ -184,7 +184,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         tags
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "YYYY년 M월 D일")
         description
         social_image {
           absolutePath

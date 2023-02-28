@@ -1,8 +1,8 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "PUMPKINMAN"
 ---
 
-# Hello World
+# 안녕하세요.
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+k

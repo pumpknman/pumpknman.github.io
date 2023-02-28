@@ -15,7 +15,7 @@ const Tags = ({ data }) => {
 
   return (
     <Layout title="All Tags">
-      <h1>All Tags</h1>
+      <h1>모든 태그</h1>
 
       <TagList>
         {tags.map((tag) => (

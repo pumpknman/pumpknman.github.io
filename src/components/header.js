@@ -11,16 +11,6 @@ const HEADER_NAV_ITEM = [
     url: "/blog",
     isExternal: false,
   },
-  {
-    label: "About",
-    url: "/about",
-    isExternal: false,
-  },
-  {
-    label: "Contact",
-    url: "/contact",
-    isExternal: false,
-  },
 ];
 
 const Header = () => {

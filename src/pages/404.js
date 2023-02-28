@@ -9,7 +9,7 @@ const NotFoundPage = () => {
       <NotFoundPageWrapper>
         <Ghost size={240} mood="sad" color="#E0E4E8" />
         <h1>OOPS..</h1>
-        <p>404. Page not found</p>
+        <p>404. 페이지를 찾을 수 없습니다.</p>
       </NotFoundPageWrapper>
     </Layout>
   );

@@ -15,7 +15,7 @@ const TagsTemplate = ({ pageContext, data }) => {
     <Layout title={title}>
       <TagsTemplateWrapper>
         <Title>
-          {totalCount} posts tagged "{tag}"
+          {totalCount} "{tag}" 글 모음
         </Title>
         <Link
           css={`
@@ -26,7 +26,7 @@ const TagsTemplate = ({ pageContext, data }) => {
           `}
           to="/tags"
         >
-          view all tags
+          모든 태그 보기
         </Link>
         <PostList posts={posts} />
 
@@ -37,7 +37,7 @@ const TagsTemplate = ({ pageContext, data }) => {
           `}
           to="/tags"
         >
-          View All tags
+          모든 태그 보기
         </StyledLink>
       </TagsTemplateWrapper>
     </Layout>
@@ -70,7 +70,7 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+          date(formatString: "YYYY년 M월 D일")
           description
           tags
           title

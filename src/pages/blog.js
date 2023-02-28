@@ -10,7 +10,7 @@ const Blog = ({ data }) => {
   return (
     <Layout title="Blog">
       <HeaderWrapper>
-        <h1>Blog</h1>
+        <h1>블로그</h1>
 
         <Link
           css={`
@@ -20,7 +20,7 @@ const Blog = ({ data }) => {
           `}
           to="/tags"
         >
-          view all tags
+          모든 태그 보기
         </Link>
       </HeaderWrapper>
 
@@ -60,7 +60,7 @@ export const homePageQuery = graphql`
         excerpt
         timeToRead
         frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+          date(formatString: "YYYY년 M월 D일")
           description
           title
           tags
