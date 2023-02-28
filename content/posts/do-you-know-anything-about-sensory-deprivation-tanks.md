@@ -1,6 +1,6 @@
 ---
-title: Do you know anything about sensory deprivation tanks?
-date: 2021-02-02
+title: 안녕하세요. 개츠비 블로그입니다.
+date: 2023-02-28
 tags:
   - stranger things
   - tv series
@@ -48,7 +48,7 @@ const findAndReplace = (string, wordToFind, wordToReplace) => {
   return string.split(wordToFind).join(wordToReplace);
 };
 
-let result = findAndReplace('I like banana', 'banana', 'apple'); // I like apple
+let result = findAndReplace("I like banana", "banana", "apple"); // I like apple
 ```
 
 ## Quoted Text
