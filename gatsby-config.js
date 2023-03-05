@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Pumpkinman's Blog`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `P-man  `,
+      summary: `Self-taught front-end web dev.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
+    description: `To keep a record of my life. Hope my kids will see this in the future.`,
+    siteUrl: `https://pumpkinman.netlify.app`,
     social: {
       twitter: `yinkakun`,
     },
@@ -15,14 +15,6 @@ module.exports = {
       {
         name: "github",
         url: "https://github.com",
-      },
-      {
-        name: "twitter",
-        url: "https://twitter.com",
-      },
-      {
-        name: "instagram",
-        url: "https://instagram.com",
       },
     ],
   },

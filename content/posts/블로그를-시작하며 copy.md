@@ -1,14 +1,24 @@
 ---
-title: 안녕하세요. 개츠비 블로그입니다. 안녕하세요 개츠비 블로그앱니당
+title: 개츠비 블로그를 간단하게 시작해보자.
 date: 2023-02-28
 tags:
-  - stranger things
-  - tv series
-  - "2022"
+  - dev
+  - gatsby
 social_image: /media/rocket.jpg
-description: This is a custom description for SEO and Open Graph purposes. If
-  it's not provided, it defaults to auto-generated excerpts of the page content.
+description: 어느날 알게된 개츠비로 만들어본 블로그.
 ---
+
+## 블로그를 시작하다.
+
+아버지는
+
+## 나는 개발자가 아니다.
+
+a
+
+##
+
+처음은 안드로이드 앱
 
 각급 선거관리위원회의 조직·직무범위 기타 필요한 사항은 법률로 정한다. 위원은 정당에 가입하거나 정치에 관여할 수 없다. 국가는 청원에 대하여 심사할 의무를 진다. 국가는 전통문화의 계승·발전과 민족문화의 창달에 노력하여야 한다. 모든 국민은 통신의 비밀을 침해받지 아니한다. 국가는 균형있는 국민경제의 성장 및 안정과 적정한 소득의 분배를 유지하고, 시장의 지배와 경제력의 남용을 방지하며, 경제주체간의 조화를 통한 경제의 민주화를 위하여 경제에 관한 규제와 조정을 할 수 있다.
 
