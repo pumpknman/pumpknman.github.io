@@ -33,6 +33,10 @@ html {
   height: -webkit-fill-available;
 }
 
+img {
+  border-radius: 10%;
+}
+
 body {
   min-height: 100vh;
   min-height: -webkit-fill-available;
