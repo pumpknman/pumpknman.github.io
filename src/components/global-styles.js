@@ -34,7 +34,8 @@ html {
 }
 
 img {
-  border-radius: 5%;
+  border-radius: 15px 15px 15px 15px;
+
 }
 
 body {
