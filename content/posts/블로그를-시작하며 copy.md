@@ -10,17 +10,13 @@ description: 어느날 알게된 개츠비로 만들어본 블로그.
 
 ## 블로그를 시작하다.
 
-https://www.youtube.com/watch?v=uyd6OLyhPJo
+`youtube:https://www.youtube.com/watch?v=uyd6OLyhPJo`
 
 ## 나는 개발자가 아니다.
 
 a
 
 ##
-
-
-
-
 
 처음은 안드로이드 앱
 
